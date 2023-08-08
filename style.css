@@ -85,6 +85,9 @@ aside a:hover{
 article{
     padding: 15px;
 }
+article p{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
 .service_container{
     display: flex;
     justify-content: space-evenly;
